@@ -1,15 +1,10 @@
 ### Hola!! I am Amit Kumar👋
 
-<!--
-**amitkv1212/amitkv1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-### 🔭 I’m currently working on WEB CHAT PROJECCT
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on WEB CHAT PROJECCT
+- 🌱 I’m currently learning backend web algorithm.
+- 👯 I’m looking to collaborate on Youtube
+- 🤔 I’m looking for help with ..
+- 💬 Ask me about Tech Stuffs
+- 📫 How to reach me: email: kamitverma22@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Lazy Bug with HMP
