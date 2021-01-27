@@ -7,4 +7,4 @@
 - 💬 Ask me about Tech Stuffs
 - 📫 How to reach me: email: kamitverma22@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Lazy Bug with HMP
+- ⚡ Fun fact: I spend 10 hours listening to spotify everyday
