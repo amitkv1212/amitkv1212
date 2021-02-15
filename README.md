@@ -1,5 +1,5 @@
 ### Hola!! I am Amit Kumar👋
-<img src="https://raw.githubusercontent.com/anandshivam44/anandshivam44/main/me.gif"/>
+![](https://raw.githubusercontent.com/anandshivam44/anandshivam44/main/me.gif)
 
 🔭 I’m currently working on WEB CHAT PROJECT
 - 🌱 I’m currently learning backend web algorithm.
