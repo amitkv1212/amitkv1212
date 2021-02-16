@@ -1,7 +1,7 @@
 ### Hola!! I am Amit Kumar👋
 ![](https://raw.githubusercontent.com/anandshivam44/anandshivam44/main/me.gif)
 
-🔭 I’m currently working on WEB CHAT PROJECT
+🔭 I’m currently working on **WEB CHAT PROJECT**
 - 🌱 I’m currently learning backend web algorithm.
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with ..
