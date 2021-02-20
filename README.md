@@ -9,8 +9,9 @@
 - 📫 How to reach me: email: kamitverma22@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend 10 hours listening to spotify everyday
-- 
-- ![image title](https://rushter.com/counter.svg)
+
+
+![image title](https://rushter.com/counter.svg)
 
 
 [![My's github stats](https://github-readme-stats.vercel.app/api?username=amitkv1212)](https://github.com/amitkv1212/github-readme-stats)
